@@ -1,0 +1,14 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "Building Web Applications with Node.js and Express",
+  "main": "app.js",
+  "author": "Eduardo Silva",
+  "license": "Licensed as you wish ;)",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mocha": "^2.4.5",
+    "supertest": "^1.1.0"
+  }
+}
